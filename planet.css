@@ -1,0 +1,132 @@
+h1, h3, p {
+	text-align: center;
+	color: white;
+}
+
+.navigation {
+  background-color: #ffffff;
+  position: fixed;
+  text-align:center;
+  left: 0;
+  right: 0;
+
+}
+
+.comment {
+
+	width: 400px;
+
+	margin: 3px auto;
+	border-radius: 10px;
+}
+
+.recipes {
+	/*display: flex;
+	flex-wrap: wrap;
+	justify-content: center;*/
+}
+
+.topic {
+	color: white;
+}
+
+.aRecipe {
+  display: inline-block;
+  width: 45%;
+  margin: 3px;
+}
+
+.contact {
+	color: #aceeff;
+	font-size: 20px;
+	border: 1px solid #ffffff;
+	float: right;
+	border-radius: 5px;
+	margin-right: 15px;
+}
+
+.contact a {
+	cursor: pointer;
+}
+
+/*.contact a:active {
+	top: 2px;
+}*/
+
+.comment {
+
+}
+
+.aTable {
+	background-image: url("http://sthelenatourism.com/wp-content/uploads/2014/12/Night-Sky-2.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	left: 0;
+	right: 0;
+}
+
+ul{
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 5px 50px;
+    color: #000000;
+}
+
+h1{
+	background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+	width: 450px;
+	margin: auto;
+	font-family: Palatino, 'Palatino Linotype', serif;
+
+
+}
+
+body {
+  background-color: #00001a;
+  margin: 0;
+  padding: 0;
+  overflow: scroll;
+}
+
+table {
+	margin: 0px auto;
+
+	color: white;
+	border-style: solid;
+	border-color: #a6a6a6;
+
+}
+
+td {
+	border-style: solid;
+	border-color: #a6a6a6;
+	padding: 10px;
+}
+
+th {
+	border-style: solid;
+	border-color: #a6a6a6;
+	padding: 10px;
+
+}
+
+div {
+  text-align: center;
+}
+
+div.wording{
+  width: 560px;
+  margin:auto;
+}
+
+
+iframe {
+	float: middle;
+	margin: 0px auto;
+}
